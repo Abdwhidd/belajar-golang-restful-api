@@ -1,6 +1,6 @@
 # belajar-golang-restful-api
 
-# CRUD
+### CRUD
 
 - Create OpenAPI
 - Create API Spec
